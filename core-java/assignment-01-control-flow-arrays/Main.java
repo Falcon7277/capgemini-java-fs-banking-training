@@ -1,4 +1,3 @@
-package assign3;
 /*
 Assignment 1 – Core Java
 Name: Tanishq Sawarkar

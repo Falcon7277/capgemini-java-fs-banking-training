@@ -1,5 +1,3 @@
-package assign4;
-
 public class Main {
     public static void main(String[] args) {
         //all the solutions are written in methods
